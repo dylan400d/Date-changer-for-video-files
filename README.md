@@ -1,3 +1,5 @@
+This project was written to solve an issue with Google Photos and dates with video files. My digital camera produces large video files, and after compressing them with tools like HandBrake or other video compressors, the new files no longer retained the original metadata. As a result, the videos didn't appear in the correct order when viewed in Google Photos. This should work with other services too such as Amazon photos.
+
 In order to run this project, you need to make sure the following libraries are installed:
 
 - hachoir (Install via pip install hachoir)
